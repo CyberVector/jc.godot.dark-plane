@@ -9,5 +9,5 @@ Plane and minimalistic dark editor theme for godot engine.
 ## Pics.
 
 > Default.
-<img src="Pics/DarkPlane/DarkPlaneDefault.jpg">
+<img src="https://raw.githubusercontent.com/7Cuellar/jc.img-repo/master/DarkPlaneEditorTheme.jpg">
 --------------------------------------------------

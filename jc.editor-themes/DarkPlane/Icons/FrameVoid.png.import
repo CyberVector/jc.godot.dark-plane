@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/FrameVoid.png-3962a1c84f840751957f66a1d4ce29e8.stex"
+path="res://.import/FrameVoid.png-09312339f5e5d53032e3e5c56d7bb8af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/JC.EditorThemes/DarkPlane/Icons/FrameVoid.png"
-dest_files=[ "res://.import/FrameVoid.png-3962a1c84f840751957f66a1d4ce29e8.stex" ]
+source_file="res://addons/jc.editor-themes/DarkPlane/Icons/FrameVoid.png"
+dest_files=[ "res://.import/FrameVoid.png-09312339f5e5d53032e3e5c56d7bb8af.stex" ]
 
 [params]
 

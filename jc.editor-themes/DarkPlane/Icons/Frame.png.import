@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Frame.png-66bd44e74b9f2d7ed3f17952039b28c7.stex"
+path="res://.import/Frame.png-e0da68dd63914a7a7ac56566200bcbce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/JC.EditorThemes/DarkPlane/Icons/Frame.png"
-dest_files=[ "res://.import/Frame.png-66bd44e74b9f2d7ed3f17952039b28c7.stex" ]
+source_file="res://addons/jc.editor-themes/DarkPlane/Icons/Frame.png"
+dest_files=[ "res://.import/Frame.png-e0da68dd63914a7a7ac56566200bcbce.stex" ]
 
 [params]
 

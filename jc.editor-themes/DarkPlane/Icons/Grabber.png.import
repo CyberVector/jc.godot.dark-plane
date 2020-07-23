@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Grabber.png-62b612ad71e362ae83b569c318b5bd47.stex"
+path="res://.import/Grabber.png-a70f48cdf029e2589b19208e8a18a65a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/JC.EditorThemes/DarkPlane/Icons/Grabber.png"
-dest_files=[ "res://.import/Grabber.png-62b612ad71e362ae83b569c318b5bd47.stex" ]
+source_file="res://addons/jc.editor-themes/DarkPlane/Icons/Grabber.png"
+dest_files=[ "res://.import/Grabber.png-a70f48cdf029e2589b19208e8a18a65a.stex" ]
 
 [params]
 

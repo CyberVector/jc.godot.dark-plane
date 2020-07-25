@@ -6,6 +6,9 @@ Plane and minimalistic dark editor theme for godot engine.
 > Work In Progress.
 --------------------------------------------------
 
+## Install.
+> make create the jc.editor-themes folder and clone this repo inside the created folder. 
+
 ## Pics.
 
 > Default.

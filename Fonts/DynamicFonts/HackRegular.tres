@@ -2,10 +2,6 @@
 
 [ext_resource path="res://addons/jc.editor-themes/jc.godot.dark-plane/Fonts/DynamicFonts/Data/HackRegular.tres" type="DynamicFontData" id=1]
 
-
-
-
-
 [resource]
 size = 14
 use_mipmaps = true

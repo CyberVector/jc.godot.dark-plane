@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/FrameVoid.png-8cd8ee4a4235e8a449fba8a3637414bc.stex"
+path="res://.import/FrameVoid.png-21a8287ce2e0dfee976c8a745d50c255.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/jc.editor-themes/jc.godot.dark-plane/Icons/FrameVoid.png"
-dest_files=[ "res://.import/FrameVoid.png-8cd8ee4a4235e8a449fba8a3637414bc.stex" ]
+source_file="res://addons/jc.godot.dark-plane/Icons/FrameVoid.png"
+dest_files=[ "res://.import/FrameVoid.png-21a8287ce2e0dfee976c8a745d50c255.stex" ]
 
 [params]
 

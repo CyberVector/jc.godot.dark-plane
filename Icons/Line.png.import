@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Line.png-c9d723ca5b0eaf9ce530eb98e6c9ba5d.stex"
+path="res://.import/Line.png-c3e2ece705caa251326314abdbba71b3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/jc.editor-themes/jc.godot.dark-plane/Icons/Line.png"
-dest_files=[ "res://.import/Line.png-c9d723ca5b0eaf9ce530eb98e6c9ba5d.stex" ]
+source_file="res://addons/jc.godot.dark-plane/Icons/Line.png"
+dest_files=[ "res://.import/Line.png-c3e2ece705caa251326314abdbba71b3.stex" ]
 
 [params]
 

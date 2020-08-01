@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GrabberH.png-23612fd6a478ddfe0bf4045984c46495.stex"
+path="res://.import/GrabberH.png-068cbe6ca767c75fa4a3f1432d451dcd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/jc.editor-themes/jc.godot.dark-plane/Icons/GrabberH.png"
-dest_files=[ "res://.import/GrabberH.png-23612fd6a478ddfe0bf4045984c46495.stex" ]
+source_file="res://addons/jc.godot.dark-plane/Icons/GrabberH.png"
+dest_files=[ "res://.import/GrabberH.png-068cbe6ca767c75fa4a3f1432d451dcd.stex" ]
 
 [params]
 

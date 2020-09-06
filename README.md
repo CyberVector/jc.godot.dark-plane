@@ -3,11 +3,13 @@ Plane and minimalistic dark editor theme for godot engine.
 --------------------------------------------------
 
 ## Status.
-> Work In Progress.
+> Beta.
 --------------------------------------------------
 
 ## Install.
-> Clone repo inside the addons folder. 
+- Clone repo inside the addons folder. 
+- Go to Editor->EditorSettings->Theme->CustomTheme and select Theme path.
+    > addons/jc.godot.dark-plane/Theme/Default/DarkPlane.tres
 
 ## Pics.
 
